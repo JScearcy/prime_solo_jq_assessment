@@ -1,0 +1,14 @@
+body{
+  text-align: center;
+  background-color: #e5dcb9;
+}
+.mainBut {
+  background-color: #FFF;
+  font-size: 30px
+}
+.normal {
+  background-color: #e5dcb9;
+}
+.different {
+  background-color: #0a527f;
+}
