@@ -1,4 +1,5 @@
 body{
+  font-family: "Share Tech Mono", sans-serif;
   text-align: center;
   background-color: #e5dcb9;
 }
@@ -6,8 +7,8 @@ body{
   background-color: #FFF;
   font-size: 30px
 }
-.normal {
-  background-color: #e5dcb9;
+.divBut {
+
 }
 .different {
   background-color: #0a527f;
